@@ -24,7 +24,7 @@ Here you can download and use applications selected for this repository, which a
 
 Pre-built APKs are available for download from [this forked repository](https://github.com/builder-for-morphe/builder-for-morphe.github.io/):
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-blue?style=social&logo=telegram)](https://t.me/builder_for_morphe) [![Group](https://img.shields.io/badge/Group-blue?style=social&logo=telegram)](https://t.me/builder_for_morphe_chat)　[![Website](https://img.shields.io/badge/Website-blue?style=social&logo=google-chrome)](https://builder-for-morphe.github.io/)
+[![Website](https://img.shields.io/badge/Website-blue?style=social&logo=google-chrome)](https://builder-for-morphe.github.io/)　[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-blue?style=social&logo=telegram)](https://t.me/builder_for_morphe) [![Group](https://img.shields.io/badge/Group-blue?style=social&logo=telegram)](https://t.me/builder_for_morphe_chat)
 
 > [!IMPORTANT]
 > ▶️ » Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases) to enable Google account sign-in for supported apps
@@ -247,7 +247,7 @@ For maximum security, we recommend building your own APKs as follows:
   - See the guide in [`CONTRIBUTING.md`](CONTRIBUTING.md#%EF%B8%8F-configuration)
   - Browse all supported apps and patches [here](https://github.com/nvbangg/awesome-for-morphe#apps-patches)
 - 🚀 Run the [CI workflow](../../actions/workflows/ci.yml)
-  - Make sure to allow and enable workflows first
+  - Make sure to allow and enable workflows on first run
 - ⬇️ Download your APKs from [Releases](../../releases)
 
 ## 📚 Documentation & Contributing
@@ -264,9 +264,10 @@ For full configuration reference, setup and contributing guide, see [CONTRIBUTIN
 
 ---
 
-<p align="center"><i>Maintained with ❤️ by <a href="https://github.com/krvstek">krvstek</a> and <a href="https://github.com/nvbangg">nvbangg</a></i></p>
+<details>
+<summary align="center"><i>Maintained with ❤️ by <a href="https://github.com/krvstek">krvstek</a> and <a href="https://github.com/nvbangg">nvbangg</a></i></summary>
 
-## 🤝 Acknowledgments
+### 🤝 Acknowledgments
 
 This repo is based on the [krvstek/uni-apks](https://github.com/krvstek/uni-apks) (GPL-3.0). See [all changes](https://github.com/nvbangg/builder-for-morphe/commits/main/?author=nvbangg):
 
@@ -275,3 +276,5 @@ This repo is based on the [krvstek/uni-apks](https://github.com/krvstek/uni-apks
   - Automatic upstream sync (preserves your custom `config.toml`)
   - Pre-configured support for many apps
 - Other changes contributed upstream: [Pull Requests](https://github.com/krvstek/uni-apks/commits/main/?author=nvbangg), [co-authored commits](https://github.com/search?q=repo%3Akrvstek%2Funi-apks+Co-authored-by%3A+nvbangg&type=commits)
+
+</details>
