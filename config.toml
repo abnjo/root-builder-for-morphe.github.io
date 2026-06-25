@@ -5,7 +5,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube-Stable.patches]
-"github:MorpheApp/morphe-patches" = []
+"github:MorpheApp/morphe-patches" = ["root mount"]
 
 [YT-Music-Stable]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -13,7 +13,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 arch = "both"
 
 [YT-Music-Stable.patches]
-"github:MorpheApp/morphe-patches" = []
+"github:MorpheApp/morphe-patches" = ["root mount"]
 
 [Reddit-Stable]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
