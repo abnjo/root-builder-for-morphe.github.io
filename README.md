@@ -23,7 +23,7 @@ Here you can download and use applications selected for this repository, which a
 
 ## 📋 List of apps in this repository
 
-Pre-built APKs are available for download from [this forked repository](https://github.com/builder-for-morphe/builder-for-morphe.github.io/):
+Pre-built APKs are available for download from this repository:
 
 [![Website](https://img.shields.io/badge/Website-blue?style=social&logo=google-chrome)](https://builder-for-morphe.github.io/)　[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-blue?style=social&logo=telegram)](https://t.me/builder_for_morphe)
 
@@ -34,10 +34,10 @@ Pre-built APKs are available for download from [this forked repository](https://
 
 |Download　　　　|Patch Details|Add to Obtainium|Play Store|
 |:-------------:|:-----------:|:--------------:|:--------:|
-| [![Download Stable](https://img.shields.io/badge/YouTube--Stable-FF0000?logo=YouTube&logoColor=white)](https://github.com/builder-for-morphe/builder-for-morphe.github.io/releases?q=YouTube-Stable&expanded=true) | [View](https://github.com/MorpheApp/morphe-patches) | [Add](ob-YouTube-Stable) | [View](https://play.google.com/store/apps/details?id=com.google.android.youtube) |
-| [![Download Stable](https://img.shields.io/badge/YT--Music--Stable-FF0000?logo=youtube-music&logoColor=white)](https://github.com/builder-for-morphe/builder-for-morphe.github.io/releases?q=YT-Music-Stable&expanded=true) | [View](https://github.com/MorpheApp/morphe-patches) | [Add](ob-YT-Music-Stable) | [View](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
-| [![Download Experimental](https://img.shields.io/badge/YouTube--Experimental-FF0000?logo=YouTube&logoColor=white)](https://github.com/builder-for-morphe/builder-for-morphe.github.io/releases?q=YouTube-Experimental&expanded=true) | [View](https://github.com/MorpheApp/morphe-patches) | [Add](ob-YouTube-Experimental) | [View](https://play.google.com/store/apps/details?id=com.google.android.youtube) |
-| [![Download Experimental](https://img.shields.io/badge/YT--Music--Experimental-FF0000?logo=youtube-music&logoColor=white)](https://github.com/builder-for-morphe/builder-for-morphe.github.io/releases?q=YT-Music-Experimental&expanded=true) | [View](https://github.com/MorpheApp/morphe-patches) | [Add](ob-YT-Music-Experimental) | [View](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
+| [![Download Stable](https://img.shields.io/badge/YouTube--Stable-FF0000?logo=YouTube&logoColor=white)](https://github.com/abnjo/root-builder-for-morphe.github.io/releases?q=YouTube-Stable&expanded=true) | [View](https://github.com/MorpheApp/morphe-patches) | [Add][ob-YouTube-Stable] | [View](https://play.google.com/store/apps/details?id=com.google.android.youtube) |
+| [![Download Stable](https://img.shields.io/badge/YT--Music--Stable-FF0000?logo=youtube-music&logoColor=white)](https://github.com/abnjo/root-builder-for-morphe.github.io/releases?q=YT-Music-Stable&expanded=true) | [View](https://github.com/MorpheApp/morphe-patches) | [Add][ob-YT-Music-Stable] | [View](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
+| [![Download Experimental](https://img.shields.io/badge/YouTube--Experimental-FF0000?logo=YouTube&logoColor=white)](https://github.com/abnjo/root-builder-for-morphe.github.io/releases?q=YouTube-Experimental&expanded=true) | [View](https://github.com/MorpheApp/morphe-patches) | [Add][ob-YouTube-Experimental] | [View](https://play.google.com/store/apps/details?id=com.google.android.youtube) |
+| [![Download Experimental](https://img.shields.io/badge/YT--Music--Experimental-FF0000?logo=youtube-music&logoColor=white)](https://github.com/abnjo/root-builder-for-morphe.github.io/releases?q=YT-Music-Experimental&expanded=true) | [View](https://github.com/MorpheApp/morphe-patches) | [Add][ob-YT-Music-Experimental] | [View](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
 
 </details>
 
@@ -51,10 +51,10 @@ To ensure that the APK files you download are genuinely compiled by this project
 
 <!-- Obtainium links -->
 
-[ob-YouTube-Stable]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fbuilder-for-morphe%2Fbuilder-for-morphe.github.io%22%2C%22author%22%3A%22MorpheApp%22%7D
-[ob-YT-Music-Stable]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fbuilder-for-morphe%2Fbuilder-for-morphe.github.io%22%2C%22author%22%3A%22MorpheApp%22%7D
-[ob-YouTube-Experimental]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fbuilder-for-morphe%2Fbuilder-for-morphe.github.io%22%2C%22author%22%3A%22MorpheApp%22%2C%22preferredVersionName%22%3A%22Experimental%22%7D
-[ob-YT-Music-Experimental]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fbuilder-for-morphe%2Fbuilder-for-morphe.github.io%22%2C%22author%22%3A%22MorpheApp%22%2C%22preferredVersionName%22%3A%22Experimental%22%7D
+[ob-YouTube-Stable]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fabnjo%2Froot-builder-for-morphe.github.io%22%2C%22author%22%3A%22MorpheApp%22%7D
+[ob-YT-Music-Stable]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fabnjo%2Froot-builder-for-morphe.github.io%22%2C%22author%22%3A%22MorpheApp%22%7D
+[ob-YouTube-Experimental]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fabnjo%2Froot-builder-for-morphe.github.io%22%2C%22author%22%3A%22MorpheApp%22%2C%22preferredVersionName%22%3A%22Experimental%22%7D
+[ob-YT-Music-Experimental]: https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fabnjo%2Froot-builder-for-morphe.github.io%22%2C%22author%22%3A%22MorpheApp%22%2C%22preferredVersionName%22%3A%22Experimental%22%7D
 
 ## 🤖 Build Your Own APKs
 
